@@ -1,0 +1,15 @@
+love:happy
+happy:happy
+amazing:happy
+great:happy
+good:happy
+excellent:happy
+hate:sad
+sad:sad
+bad:sad
+angry:angry
+fear:fear
+scared:fear
+surprised:surprise
+wow:surprise
+neutral:neutral
